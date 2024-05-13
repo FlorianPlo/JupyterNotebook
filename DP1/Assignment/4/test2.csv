@@ -169,7 +169,7 @@ Jacob Evans,AHP-1908,LightPink,Estate agent,Kimberlyside,"(Decimal('40.5478835')
 Jacob Evans,AHP-1908,DarkGreen,"Surveyor, insurance",West Austin,"(Decimal('35.709893'), Decimal('-38.172091'))",2007-12-10 07:20:43.744443,"Davis, Mckinney and Carter"
 Adam Henry,60-P596,Pink,Dancer,Nicoleborough,"(Decimal('-13.0613715'), Decimal('-178.552660'))",2018-12-22 07:13:31.325741,"Wilkinson, Nichols and Hernandez"
 Stephanie Garcia DVM,862-QPI,GhostWhite,"Geologist, wellsite",Reeseshire,"(Decimal('21.156625'), Decimal('-104.616428'))",2008-05-28 03:37:09.041099,"Becker, Morgan and Edwards"
-Jennifer Robinson,,Plum,"Conservator, museum/gallery",West Kristenfurt,"(Decimal('-71.4120895'), Decimal('83.127767'))",2013-10-16 17:17:36.141012,"Curtis, Smith and Williams"
+Jennifer Robinson,None,Plum,"Conservator, museum/gallery",West Kristenfurt,"(Decimal('-71.4120895'), Decimal('83.127767'))",2013-10-16 17:17:36.141012,"Curtis, Smith and Williams"
 Matthew Chen,512 GZ1,Thistle,"Conservator, museum/gallery",Earlburgh,"(Decimal('-27.387656'), Decimal('113.605630'))",2016-12-20 12:53:55.816830,"Villanueva, Thomas and Mckenzie"
 Willie Robinson,4FC D56,SeaShell,Forensic scientist,Christopherfurt,"(Decimal('4.6137225'), Decimal('-35.783745'))",2017-05-08 01:07:46.753229,Williams-Dyer
 Michaela Cross,317-JOXI,DarkOrchid,"Scientist, research (life sciences)",West Richardborough,"(Decimal('44.233218'), Decimal('47.863301'))",2000-01-24 09:34:50.443672,Miller and Sons
@@ -181,7 +181,7 @@ Stephanie Wolf,791-YRO,Ivory,Advertising account planner,East Tarafort,"(Decimal
 Stephanie Wolf,791-YRO,Ivory,Advertising account planner,East Tarafort,"(Decimal('5.234993'), Decimal('-82.193709'))",2013-04-22 17:24:13.043657,Jones-Buck
 Laurie Holden,KOU 933,Brown,Editorial assistant,Phillipsburgh,"(Decimal('-67.203098'), Decimal('165.613772'))",2021-06-23 15:10:13.051407,Fisher-Jacobs
 James Miller,VRF 272,LightSeaGreen,Phytotherapist,South Brittany,"(Decimal('-43.8180835'), Decimal('108.296819'))",2021-07-29 07:27:30.983399,"Holmes, Brown and Wilson"
-,535-CMX,Crimson,Firefighter,Williamsville,"(Decimal('0.381728'), Decimal('20.602373'))",2019-06-01 01:46:25.573270,"Hardin, Campbell and Lawson"
+None,535-CMX,Crimson,Firefighter,Williamsville,"(Decimal('0.381728'), Decimal('20.602373'))",2019-06-01 01:46:25.573270,"Hardin, Campbell and Lawson"
 Leah Paul,2-9164X,RosyBrown,Physiological scientist,South Joshua,"(Decimal('67.2591265'), Decimal('113.587658'))",1994-08-13 11:35:35.452955,"Barnett, Sharp and Morris"
 Annette Collier,04-J365,DarkGray,Actor,,"(Decimal('6.7382075'), Decimal('159.532719'))",2013-07-27 21:29:45.079812,"Morales, Gilmore and Guerra"
 Jasmine Jackson DDS,607 CEN,Gray,Media buyer,Lake Scott,"(Decimal('-52.273759'), Decimal('89.502875'))",2004-10-21 19:06:01.529683,Johnson and Sons
@@ -490,7 +490,7 @@ Jasmin White,EDV G65,Cornsilk,"Horticulturist, commercial",Samuelland,"(Decimal(
 Jessica Hall,MKI 316,LightGray,"Psychotherapist, dance movement",Jennifermouth,"(Decimal('-49.677405'), Decimal('-23.634870'))",2008-11-14 20:52:29.151608,"Collins, Brown and Young"
 Kim Jennings,8KT 601,PapayaWhip,"Therapist, nutritional",Leeton,"(Decimal('-31.539903'), Decimal('12.499266'))",2022-07-07 13:07:46.089901,"Powell, Payne and Lee"
 Kim Randolph,NII-821,GhostWhite,Oncologist,East Victoria,"(Decimal('-0.912984'), Decimal('-142.233895'))",2001-09-01 05:17:53.459183,"Lewis, Trevino and Mclean"
-Karen Park,633-GQUH,SandyBrown,Bonds trader,,"(Decimal('-51.3443385'), Decimal('-153.807722'))",1994-10-18 07:59:50.695550,Smith Inc
+Karen Park,633-GQUH,SandyBrown,Bonds trader,None,"(Decimal('-51.3443385'), Decimal('-153.807722'))",1994-10-18 07:59:50.695550,Smith Inc
 Jennifer Warren,783 CWP,Violet,Radiation protection practitioner,Pruitthaven,"(Decimal('80.9757975'), Decimal('133.064954'))",2014-12-05 09:00:43.438142,Lopez-Oliver
 Brittany Perez,1-96953A,GreenYellow,"Engineer, structural",Clarkeville,"(Decimal('-78.8018435'), Decimal('22.006899'))",2005-01-15 18:12:23.200351,Gonzalez-Miller
 Justin Castro,516-KFQ,Linen,Media buyer,South Bethchester,"(Decimal('55.5007275'), Decimal('-154.388962'))",2014-12-03 08:23:33.899478,Hayes-Ramos
@@ -1564,7 +1564,7 @@ Matthew Bowman,326 LCW,Khaki,Solicitor,East Carolview,"(Decimal('-74.203307'), D
 Tanya Lopez,247FJG,Purple,"Producer, television/film/video",Port Carrieton,"(Decimal('32.2754365'), Decimal('170.577066'))",2015-08-15 22:02:20.878973,"Sanders, King and Willis"
 Heather Thomas,MLL 063,MediumAquaMarine,Hydrologist,Port Frederick,"(Decimal('76.6754115'), Decimal('90.913788'))",2013-11-03 20:57:41.674808,Levine-Young
 Ricky Martin,BGD 751,Lime,Radiation protection practitioner,Emilyberg,"(Decimal('85.462034'), Decimal('-54.475697'))",2015-08-20 09:19:11.716136,Kerr-Jones
-Brittany Jefferson,,Moccasin,Investment analyst,Gordonbury,"(Decimal('-23.9020505'), Decimal('97.374873'))",1998-02-24 20:45:17.382219,"Nelson, Hernandez and Brown"
+Brittany Jefferson,None,Moccasin,Investment analyst,Gordonbury,"(Decimal('-23.9020505'), Decimal('97.374873'))",1998-02-24 20:45:17.382219,"Nelson, Hernandez and Brown"
 Wendy Martinez,FQ-7071,Purple,Quarry manager,Christineburgh,"(Decimal('14.2298145'), Decimal('49.314970'))",2003-01-31 12:05:26.848450,Stephens LLC
 Kimberly Marshall,030 WCL,LightYellow,Animal nutritionist,Evanland,"(Decimal('-30.8543715'), Decimal('-61.664152'))",2006-09-02 15:47:24.616689,Dougherty-Smith
 Amber Patterson,00-LQ47,LightSalmon,Chief Marketing Officer,Williamston,"(Decimal('48.8622335'), Decimal('41.576995'))",2001-02-24 13:02:54.900598,Smith LLC
